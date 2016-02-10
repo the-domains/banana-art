@@ -1,7 +1,7 @@
 name: Banana art
 favicon: null
-layout_spectrum: 0.22377184149809182
-typography_spectrum: 0.05822084844112396
+layout_spectrum: 1
+typography_spectrum: 0.60889
 cta:
   domain: null
   bucket: null
